@@ -1,0 +1,30 @@
+name: System
+author: Flavius
+version: 3.7
+main: dev.flavius.system.System
+softdepend: [Multiverse-Core]
+website: https://www.tiktok.com/@addventuretime
+
+commands:
+  bc:
+  broadcast:
+  cc:
+  clearchat:
+  dc:
+  discord:
+  ping:
+  tiktok:
+  tt:
+  help:
+  adventskalender:
+  report:
+  gamemode:
+  gm:
+  reload:
+  rl:
+  restart:
+  system:
+  defaultgamemode:
+  clear:
+  joinquittoggle:
+  
